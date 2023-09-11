@@ -36,7 +36,6 @@ h6 {
   padding: 0;
 }
 
-/* Back to top button */
 
 .back-to-top {
   position: fixed;
@@ -60,7 +59,6 @@ h6 {
   color: #fff;
 }
 
-/* Prelaoder */
 
 #preloader {
   position: fixed;
@@ -111,9 +109,6 @@ h6 {
   }
 }
 
-/*--------------------------------------------------------------
-# Top Bar
---------------------------------------------------------------*/
 
 #topbar {
   padding: 0 0 10px 0;
@@ -140,9 +135,6 @@ h6 {
   border-left: 0;
 }
 
-/*--------------------------------------------------------------
-# Header
---------------------------------------------------------------*/
 
 #header {
   height: 110px;
@@ -197,9 +189,6 @@ h6 {
   margin-top: 60px;
 }
 
-/*--------------------------------------------------------------
-# Intro Section
---------------------------------------------------------------*/
 
 #intro {
   width: 100%;
@@ -241,11 +230,7 @@ h6 {
   background: #0a98c0;
 }
 
-/*--------------------------------------------------------------
-# Navigation Menu
---------------------------------------------------------------*/
 
-/* Desktop Navigation */
 
 .main-nav {
   /* Drop Down */
@@ -350,7 +335,6 @@ h6 {
   right: 15px;
 }
 
-/* Mobile Navigation */
 
 .mobile-nav {
   position: fixed;
@@ -455,12 +439,7 @@ h6 {
   color: #fff;
 }
 
-/*--------------------------------------------------------------
-# Sections
---------------------------------------------------------------*/
 
-/* Sections Header
---------------------------------*/
 
 .section-header h3 {
   font-size: 36px;
@@ -480,15 +459,12 @@ h6 {
   width: 50%;
 }
 
-/* Section with background
---------------------------------*/
+
 
 .section-bg {
   background: #f5f8fd;
 }
 
-/* About Us Section
---------------------------------*/
 
 #about {
   padding: 80px 0;
@@ -567,8 +543,6 @@ h6 {
   transition: 0.5s;
 }
 
-/* Services Section
---------------------------------*/
 
 #services {
   padding: 60px 0 40px 0;
@@ -627,8 +601,6 @@ h6 {
   text-align: left;
 }
 
-/* Why Us Section
---------------------------------*/
 
 #why-us {
   padding: 60px 0;
@@ -679,8 +651,6 @@ h6 {
   color: #8a87b6;
 }
 
-/* Call To Action Section
---------------------------------*/
 
 #call-to-action {
   background: #2d2b46;
@@ -717,8 +687,6 @@ h6 {
   border: 3px solid #1bb1dc;
 }
 
-/* Features Section
---------------------------------*/
 
 #features {
   padding: 80px 0;
@@ -729,8 +697,6 @@ h6 {
   font-size: 24px;
 }
 
-/* Portfolio Section
---------------------------------*/
 
 #portfolio {
   padding: 60px 0;
@@ -881,8 +847,6 @@ h6 {
   opacity: 1;
 }
 
-/* Testimonials Section
---------------------------------*/
 
 #testimonials {
   padding: 60px 0;
@@ -938,8 +902,6 @@ h6 {
   background-color: #1bb1dc;
 }
 
-/* Team Section
---------------------------------*/
 
 #team {
   padding: 60px 0;
@@ -1020,8 +982,6 @@ h6 {
   margin: 0 2px;
 }
 
-/* Clients Section
---------------------------------*/
 
 #clients {
   padding: 60px 0;
@@ -1057,8 +1017,6 @@ h6 {
   background-color: #1bb1dc;
 }
 
-/* Pricing Section
---------------------------------*/
 
 #pricing {
   padding: 80px 0;
@@ -1160,8 +1118,6 @@ h6 {
   background: #0a98c0;
 }
 
-/* Frequently Asked Questions Section
---------------------------------*/
 
 #faq {
   padding: 60px 0;
@@ -1211,9 +1167,6 @@ h6 {
   content: "\f2c7" !important;
 }
 
-/*--------------------------------------------------------------
-# Footer
---------------------------------------------------------------*/
 
 #footer {
   padding: 0 0 30px 0;
@@ -1446,9 +1399,6 @@ h6 {
   color: #0a98c0;
 }
 
-/*--------------------------------------------------------------
-# Responsive Media Queries
---------------------------------------------------------------*/
 
 @media (min-width: 991px) {
   #call-to-action .cta-btn-container {
